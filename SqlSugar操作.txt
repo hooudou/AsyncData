@@ -1,0 +1,54 @@
+库表管理 Show tables 获取表结构
+注意：连接数据库账户需要一定权限才能操作，最好管理员级别的账户
+
+
+
+1、使用示例
+//例1 获取所有表
+var tables = db.DbMaintenance.GetTableInfoList(true);//true 走缓存 false不走缓存
+foreach (var table in tables)
+{
+     Console.WriteLine(table.Description);//输出表信息
+}
+ 
+//例2
+db.DbMaintenance.IsAnyTable("tablename",false)//验证表名是否缓存不走缓存
+
+
+2、全部方法
+注意：用查询方法时看有没有 isCache重载， true是走缓存,false是不走缓存
+
+注意：用查询方法时看有没有 isCache重载， true是走缓存,false是不走缓存
+
+注意：用查询方法时看有没有 isCache重载， true是走缓存,false是不走缓存
+
+注意：用查询方法时看有没有 isCache重载， true是走缓存,false是不走缓存
+
+名称	备注	返回类型
+GetDataBaseList	获取所有数据库名称	List
+GetViewInfoList	查询所有视图	List
+GetTableInfoList	获取所有表，查询所有的表 （GetTableInfoList（是否缓存））	List
+GetColumnInfosByTableName	获取列根据表名,获取字段，字段信息	List
+GetIsIdentities	获取自增列	List
+GetPrimaries	获取主键	List
+IsAnyTable	表是否存在,判断表存不存在 （ IsAny(表名，是否缓存)）	bool
+IsAnyColumn	列是否存在	bool
+IsPrimaryKey	主键是否存在	bool
+IsIdentity	自增是否存在	bool
+IsAnyConstraint	约束是否存在	bool
+DropTable	删除表	bool
+TruncateTable	清空表	bool
+CreateTable	创建表（不建议使用，用CodeFirst建表）	bool
+AddColumn	添加列	bool
+UpdateColumn	更新列	bool
+AddPrimaryKey	添加主键	bool
+DropConstraint	删除约束	bool
+BackupDataBase	备份库	bool
+DropColumn	删除列	bool
+RenameColumn	重命名列	bool
+AddTableRemark	添加表描述,表注释	bool
+AddColumnRemark	添加列描述,表注释	bool
+DeleteColumnRemark	删除列描述,表注释	bool
+RenameTable	重命名表	bool
+CreateIndex	创建索引	 bool
+IsAnyIndex	索引是否存在	 bool

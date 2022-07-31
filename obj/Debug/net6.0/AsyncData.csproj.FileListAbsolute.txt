@@ -1,0 +1,450 @@
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.csproj.AssemblyReference.cache
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.GeneratedMSBuildEditorConfig.editorconfig
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.AssemblyInfoInputs.cache
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.AssemblyInfo.cs
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.csproj.CoreCompileInputs.cache
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/TestApi.deps.json
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/TestApi.runtimeconfig.json
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/appsettings.Development.json
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/appsettings.json
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/TestApi
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/AsyncData
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/AsyncData.deps.json
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/AsyncData.runtimeconfig.json
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/AsyncData.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/AsyncData.pdb
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Google.Protobuf.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/MySql.Data.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Ubiety.Dns.Core.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Zstandard.Net.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Newtonsoft.Json.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Npgsql.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Oracle.ManagedDataAccess.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SQLitePCLRaw.nativelibrary.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SqlSugar.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/DmProvider.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Kdbndp.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Renci.SshNet.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SshNet.Security.Cryptography.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Diagnostics.PerformanceCounter.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.DirectoryServices.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.DirectoryServices.Protocols.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Drawing.Common.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Runtime.Caching.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Security.Permissions.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Windows.Extensions.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Xml.XPath.XmlDocument.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/TestApi.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/TestApi.pdb
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.csproj.CopyComplete
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/refint/AsyncData.dll
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.pdb
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.genruntimeconfig.cache
+/media/cetc20/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/ref/AsyncData.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/appsettings.Development.json
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/appsettings.json
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/TestApi.deps.json
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/TestApi.runtimeconfig.json
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/TestApi
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/AsyncData
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/AsyncData.deps.json
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/AsyncData.runtimeconfig.json
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/AsyncData.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/AsyncData.pdb
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Google.Protobuf.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/MySql.Data.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Ubiety.Dns.Core.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Zstandard.Net.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Newtonsoft.Json.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Npgsql.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Oracle.ManagedDataAccess.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SQLitePCLRaw.nativelibrary.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SqlSugar.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/DmProvider.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Kdbndp.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Renci.SshNet.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SshNet.Security.Cryptography.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Diagnostics.PerformanceCounter.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.DirectoryServices.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.DirectoryServices.Protocols.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Drawing.Common.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Runtime.Caching.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Security.Permissions.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Windows.Extensions.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Xml.XPath.XmlDocument.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/TestApi.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/TestApi.pdb
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.csproj.AssemblyReference.cache
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.GeneratedMSBuildEditorConfig.editorconfig
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.AssemblyInfoInputs.cache
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.AssemblyInfo.cs
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.csproj.CoreCompileInputs.cache
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.csproj.CopyComplete
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/refint/AsyncData.dll
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.pdb
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.genruntimeconfig.cache
+/media/dmdba/10 GB 卷/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/ref/AsyncData.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/appsettings.Development.json
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/appsettings.json
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/TestApi.deps.json
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/TestApi.runtimeconfig.json
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/TestApi
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/AsyncData
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/AsyncData.deps.json
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/AsyncData.runtimeconfig.json
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/AsyncData.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/AsyncData.pdb
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/BouncyCastle.Crypto.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Google.Protobuf.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/K4os.Compression.LZ4.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/K4os.Compression.LZ4.Streams.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/K4os.Hash.xxHash.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/MySql.Data.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Ubiety.Dns.Core.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Zstandard.Net.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Newtonsoft.Json.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Npgsql.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Oracle.ManagedDataAccess.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SQLitePCLRaw.nativelibrary.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SqlSugar.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/DmProvider.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Kdbndp.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Renci.SshNet.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/SshNet.Security.Cryptography.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Diagnostics.PerformanceCounter.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.DirectoryServices.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.DirectoryServices.Protocols.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Drawing.Common.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Runtime.Caching.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Security.Permissions.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Windows.Extensions.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/System.Xml.XPath.XmlDocument.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.0/System.Diagnostics.PerformanceCounter.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.0/System.DirectoryServices.Protocols.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/TestApi.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/bin/Debug/net6.0/TestApi.pdb
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.csproj.AssemblyReference.cache
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.GeneratedMSBuildEditorConfig.editorconfig
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.AssemblyInfoInputs.cache
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.AssemblyInfo.cs
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.csproj.CoreCompileInputs.cache
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.csproj.CopyComplete
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/refint/AsyncData.dll
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.pdb
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/AsyncData.genruntimeconfig.cache
+/home/dmdba/桌面/DotNetCodes/VSCode/TestWebApi/AsyncData/obj/Debug/net6.0/ref/AsyncData.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\AsyncData.exe
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\AsyncData.deps.json
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\AsyncData.runtimeconfig.json
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\AsyncData.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\AsyncData.pdb
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\Zstandard.Net.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\Npgsql.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\SqlSugar.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\DmProvider.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\Kdbndp.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\Renci.SshNet.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\SshNet.Security.Cryptography.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\System.DirectoryServices.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Desktop\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\lenovo\Desktop\AsyncData\obj\Debug\net6.0\AsyncData.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\AsyncData\obj\Debug\net6.0\AsyncData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\AsyncData\obj\Debug\net6.0\AsyncData.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\AsyncData\obj\Debug\net6.0\AsyncData.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\AsyncData\obj\Debug\net6.0\AsyncData.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\AsyncData\obj\Debug\net6.0\AsyncData.csproj.CopyComplete
+C:\Users\lenovo\Desktop\AsyncData\obj\Debug\net6.0\AsyncData.dll
+C:\Users\lenovo\Desktop\AsyncData\obj\Debug\net6.0\refint\AsyncData.dll
+C:\Users\lenovo\Desktop\AsyncData\obj\Debug\net6.0\AsyncData.pdb
+C:\Users\lenovo\Desktop\AsyncData\obj\Debug\net6.0\AsyncData.genruntimeconfig.cache
+C:\Users\lenovo\Desktop\AsyncData\obj\Debug\net6.0\ref\AsyncData.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\AsyncData.exe
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\AsyncData.deps.json
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\AsyncData.runtimeconfig.json
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\AsyncData.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\AsyncData.pdb
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\Google.Protobuf.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\MySql.Data.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\Npgsql.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\Oracle.ManagedDataAccess.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\SQLitePCLRaw.nativelibrary.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\SqlSugar.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\DmProvider.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\Kdbndp.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\System.DirectoryServices.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\System.DirectoryServices.Protocols.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\MyCode\C#\VSCode\AsyncData\obj\Debug\net6.0\AsyncData.csproj.AssemblyReference.cache
+E:\MyCode\C#\VSCode\AsyncData\obj\Debug\net6.0\AsyncData.GeneratedMSBuildEditorConfig.editorconfig
+E:\MyCode\C#\VSCode\AsyncData\obj\Debug\net6.0\AsyncData.AssemblyInfoInputs.cache
+E:\MyCode\C#\VSCode\AsyncData\obj\Debug\net6.0\AsyncData.AssemblyInfo.cs
+E:\MyCode\C#\VSCode\AsyncData\obj\Debug\net6.0\AsyncData.csproj.CoreCompileInputs.cache
+E:\MyCode\C#\VSCode\AsyncData\obj\Debug\net6.0\AsyncData.csproj.CopyComplete
+E:\MyCode\C#\VSCode\AsyncData\obj\Debug\net6.0\AsyncData.dll
+E:\MyCode\C#\VSCode\AsyncData\obj\Debug\net6.0\refint\AsyncData.dll
+E:\MyCode\C#\VSCode\AsyncData\obj\Debug\net6.0\AsyncData.pdb
+E:\MyCode\C#\VSCode\AsyncData\obj\Debug\net6.0\AsyncData.genruntimeconfig.cache
+E:\MyCode\C#\VSCode\AsyncData\obj\Debug\net6.0\ref\AsyncData.dll
+E:\MyCode\C#\VSCode\AsyncData\bin\Debug\net6.0\ZstdNet.dll
